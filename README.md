@@ -1,3 +1,2 @@
 # boodschappenlijstje
-Voorbeeld repo om git uit te leggen
-1x pak koffie
+# 1x pak koffie
