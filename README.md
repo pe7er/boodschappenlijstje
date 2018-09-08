@@ -1,3 +1,5 @@
 # boodschappenlijstje
 Voorbeeld repo om git uit te leggen
-1 liter melk
+* sushi
+* koekjes, bijvoorbeeld stroopwafels
+* 1 liter melk
